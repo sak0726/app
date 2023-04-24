@@ -26,7 +26,7 @@
 			margin: 0;
 			padding: 0;
 			font-family: Arial, sans-serif;
-			font-size: 16px;
+			font-size: 14px;
 			line-height: 1.5;
 			background-color: #f5f5f5;
 		}
