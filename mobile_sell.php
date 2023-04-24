@@ -73,7 +73,7 @@
 		/* モバイル端末用スタイル */
 		@media (max-width: 767px) {
 			body {
-				font-size: 16px;
+				font-size: 140px;
 			}
 
 			.container {
